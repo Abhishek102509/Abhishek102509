@@ -1,5 +1,3 @@
-# Hi 👋, I'm Abhishek Verma
-**A passionate Software Developer from India**
 
 <!--
 **Abhishek102509/Abhishek102509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
