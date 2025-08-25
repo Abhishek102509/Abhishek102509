@@ -48,10 +48,10 @@ Git, GitHub, Postman, VS Code, IntelliJ IDEA
   <a href="mailto:abhi102509@gmail.com" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="email" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/abhiv._" target="_blank">
+  <a href="https://instagram.com/itsabhi_yaduvanshi" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/abhiv29" target="_blank">
+  <a href="https://leetcode.com/u/Abhishek102509/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
   </a>
 </p>
