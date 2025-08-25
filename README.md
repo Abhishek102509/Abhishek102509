@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhishekYadav&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek102509&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
