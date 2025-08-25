@@ -52,5 +52,20 @@ Here are some ideas to get you started:
 
 ---
 
+
+
+![Abhivgreek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhishek102509&show_icons=true&theme=default)
+
+<!-- GitHub Streak -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abhishek102509&theme=default)
+
+<!-- Top Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek102509&layout=compact&theme=default)
+
+---
+
+
+
+
 ⭐️ From [Abhishek Yadav](https://github.com/Abhishek102509)
 
