@@ -54,7 +54,6 @@ Here are some ideas to get you started:
 
 
 
-![Abhivgreek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhishek102509&show_icons=true&theme=default)
 
 <!-- GitHub Streak -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abhishek102509&theme=default)
